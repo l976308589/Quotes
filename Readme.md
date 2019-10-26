@@ -1,5 +1,5 @@
 # **Quotes** 
-获取国内、外实时行情;速度快，操作简单、数据稳定
+获取国内、外实时行情; 速度快，操作简单、数据稳定
 
 ![Travis](https://travis-ci.org/geatpy-dev/geatpy.svg?branch=master)
 [![Package Status](https://img.shields.io/pypi/status/geatpy.svg)](https://pypi.org/project/geatpy/)
